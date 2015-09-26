@@ -1,0 +1,15 @@
+---
+title: "Readme"
+output: html_document
+date: '`r date()`'
+---
+
+### About 
+This document explains how to use appWords application. The application counts the number of word occurrences in the supplied text. Word frequency is shown in two ways:
+
+* with bar plot where length of the bar represents the number of word occurances in the given text
+* with word cloud where size of the word represents the number of word occurances in the given text
+
+### How to use
+Just paste some text in the <code>textarea</code> field. The plots are automatically made. Change with radio buttons to desired plot.
+
